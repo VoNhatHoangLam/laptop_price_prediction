@@ -13,7 +13,4 @@ venv/
 /data/raw/price_brand_test_*/
 /data/raw/refresh_test/
 /data/raw/used_trial/
-/data/thegioididong/*.sqlite3
-/data/thegioididong/.new_sitemap_recovered.txt
-/data/thegioididong/smoke_*/
-/data/thegioididong/used_units_10_*/
+/data/thegioididong/
