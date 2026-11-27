@@ -5,3 +5,15 @@ venv/
 .ipynb_checkpoints/
 .idea/
 .env
+
+# Crawler databases and local run outputs
+/data/raw/*.sqlite3
+/data/raw/new_trial/
+/data/raw/optional_specs_test_*/
+/data/raw/price_brand_test_*/
+/data/raw/refresh_test/
+/data/raw/used_trial/
+/data/thegioididong/*.sqlite3
+/data/thegioididong/.new_sitemap_recovered.txt
+/data/thegioididong/smoke_*/
+/data/thegioididong/used_units_10_*/
